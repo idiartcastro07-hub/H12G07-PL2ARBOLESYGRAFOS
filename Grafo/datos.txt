@@ -1,0 +1,10 @@
+Einstein nacio_en Ulm
+Ulm esta_en Alemania
+Alemania esta_en Europa
+Heisenberg nacio_en Ulm
+Curie nacio_en Varsovia
+Varsovia esta_en Polonia
+Polonia esta_en Europa
+Bohr nacio_en Copenhague
+Copenhague esta_en Dinamarca
+Dinamarca esta_en Europa
