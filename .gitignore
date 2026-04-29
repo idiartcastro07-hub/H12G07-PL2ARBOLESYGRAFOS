@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!src/Grafo/main/**/out/
+!src/Grafo/test/**/out/
 
 ### Kotlin ###
 .kotlin
@@ -15,8 +15,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+!src/Grafo/main/**/bin/
+!src/Grafo/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/

@@ -1,3 +1,5 @@
+package Grafo;
+
 public class Lista implements InterfazLista {
     private ElementoLista principio;  // Primer nodo de la lista
     private ElementoLista fin;        // Ultimo nodo de la lista

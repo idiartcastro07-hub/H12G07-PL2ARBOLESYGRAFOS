@@ -1,3 +1,5 @@
+package Grafo;
+
 public interface InterfazCola<T extends Comparable<T>> {
     T peek(); // // Devuelve la informacion del primer elemento de la cola
     void enqueue(T dato); // Añade un elemento alf inal de la cola

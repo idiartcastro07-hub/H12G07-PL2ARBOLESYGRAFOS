@@ -1,3 +1,5 @@
+package Arbol;
+
 import java.util.Random;
 
 public class Main {

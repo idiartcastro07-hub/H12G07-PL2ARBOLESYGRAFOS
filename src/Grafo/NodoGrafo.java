@@ -1,3 +1,5 @@
+package Grafo;
+
 public class NodoGrafo {
     public String nombre; // Nombre del nodo
     public Lista vecinos; //Lista de nodos vecinos a los que esta conectado

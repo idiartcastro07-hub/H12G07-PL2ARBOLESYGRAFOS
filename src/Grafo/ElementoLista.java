@@ -1,3 +1,5 @@
+package Grafo;
+
 // Definicion del nodo de la lista
 class ElementoLista {
     // Los nodos de una LSE se componen de un dato y un puntero

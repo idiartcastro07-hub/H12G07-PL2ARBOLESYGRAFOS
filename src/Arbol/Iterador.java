@@ -1,3 +1,5 @@
+package Arbol;
+
 public class Iterador<T> implements MiIterador<T> {
     //clase que recorre la lista simple elemento a elemento
     private ElementoSE<T> actual;//nodo actual

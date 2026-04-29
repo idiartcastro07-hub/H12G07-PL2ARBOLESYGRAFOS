@@ -1,3 +1,5 @@
+package Arbol;
+
 public class NodoArbolBinario <T extends Comparable<T>> {
     private T dato;//dato en el nodo
     private NodoArbolBinario<T> izq;//hijo izquierdo

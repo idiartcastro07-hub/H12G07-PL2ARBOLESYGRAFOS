@@ -1,4 +1,6 @@
-public interface Lista <T extends Comparable<T>> {
+package Arbol;
+
+public interface Lista<T extends Comparable<T>> {
     void add(T dato);//añade elemento
     T get(T dato);//devuelve por dato
     T get(int dato);//devuelve por indice

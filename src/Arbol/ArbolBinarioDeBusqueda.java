@@ -1,3 +1,5 @@
+package Arbol;
+
 public class ArbolBinarioDeBusqueda <T extends Comparable<T>> {
 
     public NodoArbolBinario<T> raiz;//nodo raiz

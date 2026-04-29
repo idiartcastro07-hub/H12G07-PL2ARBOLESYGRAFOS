@@ -1,4 +1,6 @@
-public class Cola <T extends Comparable<T>> implements InterfazCola<T> {
+package Grafo;
+
+public class Cola<T extends Comparable<T>> implements InterfazCola<T> {
     private ElementoCola<T> principio;
     private ElementoCola<T> fin;
     private int tamaño = 0;

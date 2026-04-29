@@ -1,3 +1,5 @@
+package Grafo;
+
 public interface InterfazLista {
     void add(String s); // Añade un elemento al final de la lista
     boolean contiene(String s); // Comprueba si un elemento esta en la lista

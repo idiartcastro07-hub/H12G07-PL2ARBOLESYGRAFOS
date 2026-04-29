@@ -1,3 +1,5 @@
+package Arbol;
+
 //Nodo para listas simples
 public class ElementoSE<T> {
     T dato;//dato en el nodo

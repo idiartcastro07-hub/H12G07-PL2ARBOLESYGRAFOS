@@ -1,3 +1,5 @@
+package Arbol;
+
 public class ArbolBinarioDeBusquedaEnteros extends ArbolBinarioDeBusqueda<Integer> {
     public ArbolBinarioDeBusquedaEnteros() {
         super();

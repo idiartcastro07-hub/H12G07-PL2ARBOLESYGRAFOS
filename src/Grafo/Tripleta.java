@@ -1,3 +1,5 @@
+package Grafo;
+
 // Creamos una tripleta (unidad basica del grafo)
 public class Tripleta {
     // Los tres elementos de la tripleta (sujeto, predicado y objeto)

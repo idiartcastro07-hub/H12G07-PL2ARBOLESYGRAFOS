@@ -1,3 +1,5 @@
+package Arbol;
+
 public class ListaNodo <T extends Comparable<T>> implements Lista<T> {
     //Atributos
     protected ElementoSE<T> primero;
